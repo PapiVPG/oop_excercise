@@ -1,0 +1,24 @@
+=================================================================================
+   First name: Jan
+    Last name: Kowalski
+          Job: Kowal
+=================================================================================
+   First name: Janusz
+    Last name: Nowak
+          Job: Kierownik
+ In charge of: 4 people
+=================================================================================
+   First name: Anna
+    Last name: Nowak
+          Job: sekretarka
+   Reports to: Janusz
+=================================================================================
+   First name: Michał
+    Last name: Kowalewski
+          Job: Woźny
+ In charge of: 4 people
+   Reports to: Janusz
+=================================================================================
+   First name: Wojtek
+    Last name: Wiśniewski
+          Job: graphic designer
